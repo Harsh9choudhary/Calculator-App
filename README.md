@@ -1,8 +1,5 @@
 Simple React Calculator
 This is a simple calculator app built using React. It performs basic arithmetic operations and provides a user-friendly interface.
-
-image
-
 Features
 Addition, subtraction, multiplication, and division operations.
 Responsive design for various screen sizes.
