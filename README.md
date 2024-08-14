@@ -1,4 +1,4 @@
-imple React Calculator
+Simple React Calculator
 This is a simple calculator app built using React. It performs basic arithmetic operations and provides a user-friendly interface.
 
 image
