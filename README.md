@@ -4,8 +4,6 @@ Features
 Addition, subtraction, multiplication, and division operations.
 Responsive design for various screen sizes.
 Clear button to reset the calculator.
-Demo
-See the live project in action: https://react-js-simple-calculator.netlify.app/
 
 Technologies Used
 React
